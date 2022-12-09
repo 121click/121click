@@ -3,7 +3,11 @@
 - 🌱 I’m currently learning ML
 
 
-![image](https://user-images.githubusercontent.com/108212097/206667024-3bcd0311-d0c1-495a-bb56-9c34969a1979.png)
+<br>
+<br>
+
+
+![image](https://user-images.githubusercontent.com/108212097/206667227-b6519a23-0033-4c8b-b1dd-fe92d57de580.png)
 
 
 
